@@ -1,4 +1,4 @@
-### Vue 3 + Vite + Axios + EsLint + Prettier Boilerplate
+# Vue 3 + Vite + Axios + EsLint + Prettier Boilerplate
 
 ## Project Setup
 
